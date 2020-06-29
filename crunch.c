@@ -256,8 +256,7 @@
 #include <sys/wait.h>
 #include <sys/types.h>
 
-/* largest output string */
-#define MAXSTRING 128
+#define MAXSTRING 999999
 /* longest character set */
 #define MAXCSET 256
 
